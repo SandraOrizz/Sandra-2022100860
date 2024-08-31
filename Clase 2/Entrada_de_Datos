@@ -1,0 +1,20 @@
+'''Entrada de Datos'''
+
+cadena=input("¿Como se llama tu proyecto? ")
+print(f"Tu proyecto se llama: {cadena}")
+'''
+cadena=input("¿Que version es? ")
+print((f"Tu proyecto se llama: {cadena+1}"))
+'''
+cadena=int(input("¿Que version es? "))
+print((f"Tu proyecto se llama: {cadena+1}"))
+
+
+'''Salida de Datos'''
+app="python"
+proyecto="com.unida"
+print(f"Se llamara {app} y se le llamara {proyecto}")
+#print("Se llamara ", app, "y se le llamara ", proyecto) otra forma de hacer#
+
+
+
